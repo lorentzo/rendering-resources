@@ -5,4 +5,6 @@ Resources related to rendering.
 
 ## Real-time rendering
 
-Giuseppe, Ph.D. software engineer at 34BigThings, an indie game studio http://www.aclockworkberry.com/
+Giuseppe, Ph.D. software engineer at 34BigThings, an indie game studio: http://www.aclockworkberry.com/
+
+Real-time rendering book web: https://www.realtimerendering.com/
