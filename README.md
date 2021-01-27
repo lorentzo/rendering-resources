@@ -45,6 +45,10 @@ Mitsuba: https://github.com/mitsuba-renderer/mitsuba2
 
 Blender: https://wiki.blender.org/wiki/Source/File_Structure
 
+OSL: https://github.com/AcademySoftwareFoundation/OpenShadingLanguage
+
+LLVM: https://www.aosabook.org/en/llvm.html
+
 ## Real-time rendering (Rasterization)
 
 ### Blogs
