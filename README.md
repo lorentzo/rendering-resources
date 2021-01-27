@@ -76,7 +76,7 @@ CatLike coding: https://catlikecoding.com/unity/tutorials/rendering/part-6/
 LearnOpenGL: https://learnopengl.com/Getting-started/Hello-Triangle
 
 ### Books and documents
-Real-time rendering book web: https://www.realtimerendering.com/
+Real-time rendering book and web: https://www.realtimerendering.com/
 
 ### Programs, tools, API
 
