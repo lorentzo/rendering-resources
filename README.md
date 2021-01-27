@@ -33,6 +33,8 @@ PBRT: https://www.pbrt.org/
 
 Advanced global illumination
 
+Texturing and modelling: Procedural approach
+
 Ray tracing gems: https://developer.nvidia.com/books/raytracing/raytracing_gems_preview
 
 ## Real-time rendering (Rasterization)
@@ -64,3 +66,7 @@ LearnOpenGL: https://learnopengl.com/Getting-started/Hello-Triangle
 
 ### Books
 Real-time rendering book web: https://www.realtimerendering.com/
+
+## Optics
+
+Feynman lectures: https://www.feynmanlectures.caltech.edu/
