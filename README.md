@@ -31,6 +31,10 @@ Book of shaders: https://thebookofshaders.com/
 
 PBRT: https://www.pbrt.org/
 
+Advanced global illumination
+
+Ray tracing gems: https://developer.nvidia.com/books/raytracing/raytracing_gems_preview
+
 ## Real-time rendering (Rasterization)
 
 ### Blogs
@@ -48,6 +52,8 @@ S. Lagarde, Unity: https://seblagarde.wordpress.com/
 Inigo Quilez, Shadertoy: https://www.iquilezles.org/
 
 The blog at the bottom of the sea: https://blog.demofox.org/
+
+nVIDIA, GPU gems: https://developer.nvidia.com/gpugems/gpugems/contributors
 
 **Tutorial-like**
 
