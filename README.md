@@ -71,6 +71,8 @@ The blog at the bottom of the sea: https://blog.demofox.org/
 
 Joey de Vries: https://joeydevries.com/#home
 
+Naty Hoffman: http://renderwonk.com/blog/
+
 **Tutorial-like**
 
 CatLike coding: https://catlikecoding.com/unity/tutorials/rendering/part-6/
