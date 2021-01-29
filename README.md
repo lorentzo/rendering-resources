@@ -7,8 +7,6 @@ Resources related to rendering. Targeting: free, open-source, code examples
 
 Self Shadow, SIGGRAPH: https://blog.selfshadow.com/
 
-Unity: https://groznydrive.wixsite.com/unityresearch
-
 Yale: https://graphics.cs.yale.edu/publications
 
 Stanford: http://graphics.stanford.edu/courses/cs348b/, https://graphics.stanford.edu/courses/cs348b-competition/
