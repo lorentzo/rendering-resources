@@ -35,8 +35,6 @@ Yining Karl Li: https://blog.yiningkarlli.com/
 
 ScratchAPixel: https://www.scratchapixel.com/
 
-Book of shaders: https://thebookofshaders.com/
-
 PBRT: https://www.pbrt.org/
 
 Advanced global illumination
@@ -103,6 +101,8 @@ LearnOpenGL: https://learnopengl.com/Getting-started/Hello-Triangle
 Real-time rendering book and web: https://www.realtimerendering.com/
 
 nVIDIA, GPU gems: https://developer.nvidia.com/gpugems/gpugems/contributors
+
+Book of shaders: https://thebookofshaders.com/
 
 ### Programs, tools, API
 
