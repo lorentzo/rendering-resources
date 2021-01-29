@@ -23,6 +23,8 @@ Lee Griggs (https://leegriggs.com/), Arnold: https://arnold-rendering.com/about/
 
 Industrialised Cinematography: https://www.expandedcinematography.com/
 
+Filmic worlds: http://filmicworlds.com/
+
 ### Books and documents
 
 ScratchAPixel: https://www.scratchapixel.com/
