@@ -81,6 +81,8 @@ Naty Hoffman: http://renderwonk.com/blog/
 
 Brian karis: http://graphicrants.blogspot.com/
 
+Morten S. Mikkelsen: https://mmikkelsen3d.blogspot.com/
+
 **Tutorial-like**
 
 CatLike coding: https://catlikecoding.com/unity/tutorials/rendering/part-6/
