@@ -21,6 +21,8 @@ TU Wien: https://www.cg.tuwien.ac.at/courses/Rendering/VU.SS2019.html
 
 Lee Griggs (https://leegriggs.com/), Arnold: https://arnold-rendering.com/about/
 
+Industrialised Cinematography: https://www.expandedcinematography.com/
+
 ### Books and documents
 
 ScratchAPixel: https://www.scratchapixel.com/
