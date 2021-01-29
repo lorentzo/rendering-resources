@@ -67,7 +67,7 @@ Inigo Quilez, Shadertoy: https://www.iquilezles.org/
 
 The blog at the bottom of the sea: https://blog.demofox.org/
 
-nVIDIA, GPU gems: https://developer.nvidia.com/gpugems/gpugems/contributors
+Joey de Vries: https://joeydevries.com/#home
 
 **Tutorial-like**
 
@@ -77,6 +77,8 @@ LearnOpenGL: https://learnopengl.com/Getting-started/Hello-Triangle
 
 ### Books and documents
 Real-time rendering book and web: https://www.realtimerendering.com/
+
+nVIDIA, GPU gems: https://developer.nvidia.com/gpugems/gpugems/contributors
 
 ### Programs, tools, API
 
