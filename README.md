@@ -15,6 +15,10 @@ Stanford: http://graphics.stanford.edu/courses/cs348b/, https://graphics.stanfor
 
 TU Wien: https://www.cg.tuwien.ac.at/courses/Rendering/VU.SS2019.html
 
+Valve: https://www.valvesoftware.com/en/publications
+
+Unity: https://unity.com/labs/publications
+
 ## Offline rendering (Global illumination; ray tracing, photon mapping, etc.)
 
 ### Blogs
@@ -26,6 +30,8 @@ Industrialised Cinematography: https://www.expandedcinematography.com/
 Filmic worlds: http://filmicworlds.com/
 
 Yining Karl Li: https://blog.yiningkarlli.com/
+
+80 Level: https://80.lv/
 
 ### Books and documents
 
@@ -87,6 +93,8 @@ GameDev.net: https://www.gamedev.net/ (example of a [great article](https://www.
 
 Gamasutra: https://www.gamasutra.com/category/programming/
 
+GDC valut: https://gdcvault.com/
+
 **Tutorial-like**
 
 CatLike coding: https://catlikecoding.com/unity/tutorials/rendering/part-6/
@@ -103,8 +111,6 @@ nVIDIA, GPU gems: https://developer.nvidia.com/gpugems/gpugems/contributors
 The Khronos Group: https://www.khronos.org/
 
 Godot: https://github.com/godotengine/godot
-
-Unity: https://unity.com/
 
 ## Optics
 
