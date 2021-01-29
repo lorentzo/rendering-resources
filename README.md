@@ -25,6 +25,8 @@ Industrialised Cinematography: https://www.expandedcinematography.com/
 
 Filmic worlds: http://filmicworlds.com/
 
+Yining Karl Li: https://blog.yiningkarlli.com/
+
 ### Books and documents
 
 ScratchAPixel: https://www.scratchapixel.com/
@@ -76,6 +78,8 @@ The blog at the bottom of the sea: https://blog.demofox.org/
 Joey de Vries: https://joeydevries.com/#home
 
 Naty Hoffman: http://renderwonk.com/blog/
+
+Brian karis: http://graphicrants.blogspot.com/
 
 **Tutorial-like**
 
