@@ -13,6 +13,8 @@ Yale: https://graphics.cs.yale.edu/publications
 
 Stanford: http://graphics.stanford.edu/courses/cs348b/, https://graphics.stanford.edu/courses/cs348b-competition/
 
+TU Wien: https://www.cg.tuwien.ac.at/courses/Rendering/VU.SS2019.html
+
 ## Offline rendering (Global illumination; ray tracing, photon mapping, etc.)
 
 ### Blogs
