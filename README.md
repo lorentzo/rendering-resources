@@ -83,6 +83,10 @@ Brian karis: http://graphicrants.blogspot.com/
 
 Morten S. Mikkelsen: https://mmikkelsen3d.blogspot.com/
 
+GameDev.net: https://www.gamedev.net/ (example of a [great article](https://www.gamedev.net/articles/programming/graphics/thin-film-interference-for-computer-graphics-r2962/))
+
+Gamasutra: https://www.gamasutra.com/category/programming/
+
 **Tutorial-like**
 
 CatLike coding: https://catlikecoding.com/unity/tutorials/rendering/part-6/
