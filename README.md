@@ -89,11 +89,7 @@ Brian karis: http://graphicrants.blogspot.com/
 
 Morten S. Mikkelsen: https://mmikkelsen3d.blogspot.com/
 
-**Tutorial-like**
-
-CatLike coding: https://catlikecoding.com/unity/tutorials/rendering/part-6/
-
-LearnOpenGL: https://learnopengl.com/Getting-started/Hello-Triangle
+Simon: http://simonstechblog.blogspot.com/
 
 ### Sites
 
@@ -103,7 +99,11 @@ Gamasutra: https://www.gamasutra.com/category/programming/
 
 GDC valut: https://gdcvault.com/
 
-### Books and documents
+### Books, documents, tutorials
+CatLike coding: https://catlikecoding.com/unity/tutorials/rendering/part-6/
+
+LearnOpenGL: https://learnopengl.com/Getting-started/Hello-Triangle
+
 Real-time rendering book and web: https://www.realtimerendering.com/
 
 nVIDIA, GPU gems: https://developer.nvidia.com/gpugems/gpugems/contributors
