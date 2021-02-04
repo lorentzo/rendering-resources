@@ -29,6 +29,10 @@ Filmic worlds: http://filmicworlds.com/
 
 Yining Karl Li: https://blog.yiningkarlli.com/
 
+Kevin George: http://kevin-george-2n3x.squarespace.com/blog
+
+### Sites
+
 80 Level: https://80.lv/
 
 ### Books and documents
@@ -85,17 +89,19 @@ Brian karis: http://graphicrants.blogspot.com/
 
 Morten S. Mikkelsen: https://mmikkelsen3d.blogspot.com/
 
-GameDev.net: https://www.gamedev.net/ (example of a [great article](https://www.gamedev.net/articles/programming/graphics/thin-film-interference-for-computer-graphics-r2962/))
-
-Gamasutra: https://www.gamasutra.com/category/programming/
-
-GDC valut: https://gdcvault.com/
-
 **Tutorial-like**
 
 CatLike coding: https://catlikecoding.com/unity/tutorials/rendering/part-6/
 
 LearnOpenGL: https://learnopengl.com/Getting-started/Hello-Triangle
+
+### Sites
+
+GameDev.net: https://www.gamedev.net/ (example of a [great article](https://www.gamedev.net/articles/programming/graphics/thin-film-interference-for-computer-graphics-r2962/))
+
+Gamasutra: https://www.gamasutra.com/category/programming/
+
+GDC valut: https://gdcvault.com/
 
 ### Books and documents
 Real-time rendering book and web: https://www.realtimerendering.com/
