@@ -17,6 +17,8 @@ Valve: https://www.valvesoftware.com/en/publications
 
 Unity: https://unity.com/labs/publications
 
+Sky rendering papers collection: https://gist.github.com/reinsteam/f8ec46fc2a4b3fbfc5dccdf0e34b2899
+
 ## Offline rendering (Global illumination; ray tracing, photon mapping, etc.)
 
 ### Blogs
