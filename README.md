@@ -17,7 +17,11 @@ Valve: https://www.valvesoftware.com/en/publications
 
 Unity: https://unity.com/labs/publications
 
+### Atmosphere, sky, clouds
+
 Sky rendering papers collection: https://gist.github.com/reinsteam/f8ec46fc2a4b3fbfc5dccdf0e34b2899
+
+Sky / Atmospheric Rendering: http://vterrain.org/Atmosphere/
 
 ## Offline rendering (Global illumination; ray tracing, photon mapping, etc.)
 
@@ -33,6 +37,7 @@ Yining Karl Li: https://blog.yiningkarlli.com/
 
 Kevin George: http://kevin-george-2n3x.squarespace.com/blog
 
+Pete Shirley: http://psgraphics.blogspot.com/
 ### Sites
 
 80 Level: https://80.lv/
