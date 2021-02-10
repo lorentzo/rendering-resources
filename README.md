@@ -137,3 +137,4 @@ CG Charles uni, The Sky Dome Appearance Project: https://cgg.mff.cuni.cz/project
 
 appleseed sky models: https://github.com/appleseedhq/appleseed/wiki/List-of-Project-Ideas-for-GSoC-2020#revisiting-physical-sun-and-sky-models
 
+scratch a pixel: simulating colors of sky (Nishita) https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/simulating-sky
