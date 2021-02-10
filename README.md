@@ -17,12 +17,6 @@ Valve: https://www.valvesoftware.com/en/publications
 
 Unity: https://unity.com/labs/publications
 
-### Atmosphere, sky, clouds
-
-Sky rendering papers collection: https://gist.github.com/reinsteam/f8ec46fc2a4b3fbfc5dccdf0e34b2899
-
-Sky / Atmospheric Rendering: http://vterrain.org/Atmosphere/
-
 ## Offline rendering (Global illumination; ray tracing, photon mapping, etc.)
 
 ### Blogs
@@ -126,3 +120,20 @@ Godot: https://github.com/godotengine/godot
 ## Optics
 
 Feynman lectures: https://www.feynmanlectures.caltech.edu/
+
+## Specific topics
+
+### Atmosphere, sun, sky, clouds
+
+Sky rendering papers collection: https://gist.github.com/reinsteam/f8ec46fc2a4b3fbfc5dccdf0e34b2899
+
+Sky / Atmospheric Rendering collection: http://vterrain.org/Atmosphere/
+
+GPU gems atmospheric model (Nishita): https://developer.nvidia.com/gpugems/gpugems2/part-ii-shading-lighting-and-shadows/chapter-16-accurate-atmospheric-scattering
+
+Game dev net, Real time atmospheric model (Nishita): https://www.gamedev.net/articles/programming/graphics/real-time-atmospheric-scattering-r2093/
+
+CG Charles uni, The Sky Dome Appearance Project: https://cgg.mff.cuni.cz/projects/SkylightModelling/
+
+appleseed sky models: https://github.com/appleseedhq/appleseed/wiki/List-of-Project-Ideas-for-GSoC-2020#revisiting-physical-sun-and-sky-models
+
