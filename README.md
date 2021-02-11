@@ -138,3 +138,11 @@ CG Charles uni, The Sky Dome Appearance Project: https://cgg.mff.cuni.cz/project
 appleseed sky models: https://github.com/appleseedhq/appleseed/wiki/List-of-Project-Ideas-for-GSoC-2020#revisiting-physical-sun-and-sky-models
 
 scratch a pixel: simulating colors of sky (Nishita) https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/simulating-sky
+
+horizon zero dawn real-time clouds: http://advances.realtimerendering.com/s2015/The%20Real-time%20Volumetric%20Cloudscapes%20of%20Horizon%20-%20Zero%20Dawn%20-%20ARTR.pdf
+
+### Volumetrics, voxels
+
+GPU GEMS, volume rendering: https://developer.nvidia.com/gpugems/gpugems/part-vi-beyond-triangles/chapter-39-volume-rendering-techniques
+
+Voxels engine: https://sites.google.com/site/letsmakeavoxelengine/
