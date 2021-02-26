@@ -105,6 +105,14 @@ CatLike coding: https://catlikecoding.com/unity/tutorials/rendering/part-6/
 
 LearnOpenGL: https://learnopengl.com/Getting-started/Hello-Triangle
 
+OGL: http://ogldev.atspace.co.uk/index.html
+
+open.gl: https://open.gl/introduction
+
+Anton's OpenGL 4 https://antongerdelan.net/opengl/index.html
+
+opengl-tutorial: http://www.opengl-tutorial.org/
+
 Real-time rendering book and web: https://www.realtimerendering.com/
 
 nVIDIA, GPU gems: https://developer.nvidia.com/gpugems/gpugems/contributors
