@@ -129,6 +129,9 @@ Gamasutra: https://www.gamasutra.com/category/programming/
 GDC valut: https://gdcvault.com/
 
 ### Books, documents, tutorials
+
+Vulkan: https://vulkan-tutorial.com/
+
 CatLike coding: https://catlikecoding.com/unity/tutorials/rendering/part-6/
 
 LearnOpenGL: https://learnopengl.com/Getting-started/Hello-Triangle
