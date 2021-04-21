@@ -64,9 +64,23 @@ Mitsuba: https://github.com/mitsuba-renderer/mitsuba2
 
 Blender: https://wiki.blender.org/wiki/Source/File_Structure
 
-OSL: https://github.com/AcademySoftwareFoundation/OpenShadingLanguage
+LuxCoreRenderer: https://luxcorerender.org/
 
 LLVM: https://www.aosabook.org/en/llvm.html
+
+ASWF Interactive Landscape: https://landscape.aswf.io/card-mode
+
+OSL, Alembic, OpenColorIO, PYP, and other from Sony Pictures: https://opensource.imageworks.com/
+
+USD: https://graphics.pixar.com/usd/docs/Open-Source-Release.html
+
+OpenVDB: https://www.openvdb.org/
+
+OpenSubdiv: https://graphics.pixar.com/opensubdiv/docs/intro.html
+
+CGAL: https://www.cgal.org/
+
+Meshlab: https://www.meshlab.net/
 
 ## Real-time rendering (Rasterization)
 
