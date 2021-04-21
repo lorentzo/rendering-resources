@@ -3,7 +3,7 @@
 ## About
 Resources related to rendering. Targeting: free, open-source, code examples 
 
-## Conferences, universities, research
+## Conferences, universities, research, people
 
 Self Shadow, SIGGRAPH: https://blog.selfshadow.com/
 
@@ -16,6 +16,10 @@ TU Wien: https://www.cg.tuwien.ac.at/courses/Rendering/VU.SS2019.html
 Valve: https://www.valvesoftware.com/en/publications
 
 Unity: https://unity.com/labs/publications
+
+### People
+
+Wenzel Jakob: http://rgl.epfl.ch/people/wjakob/
 
 ## Offline rendering (Global illumination; ray tracing, photon mapping, etc.)
 
