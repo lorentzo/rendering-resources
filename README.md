@@ -40,6 +40,12 @@ Pete Shirley: http://psgraphics.blogspot.com/
 
 80 Level: https://80.lv/
 
+BlenderNation: https://www.blendernation.com/
+
+Blender Artists: https://blenderartists.org/
+
+Art station: https://www.artstation.com/
+
 ### Books and documents
 
 ScratchAPixel: https://www.scratchapixel.com/
