@@ -7,6 +7,10 @@ Resources related to rendering. Targeting: free, open-source, code examples
 
 Self Shadow, SIGGRAPH: https://blog.selfshadow.com/
 
+GTC: https://www.nvidia.com/en-us/gtc/
+
+VIEW: https://www.viewconference.it/
+
 Yale: https://graphics.cs.yale.edu/publications
 
 Stanford: http://graphics.stanford.edu/courses/cs348b/, https://graphics.stanford.edu/courses/cs348b-competition/
