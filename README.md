@@ -3,7 +3,13 @@
 ## About
 Resources related to rendering. Targeting: free, open-source, code examples 
 
-## Conferences, universities, research, people
+## Conferences, universities, research, people, patents
+
+Google scholar, Google patents
+
+Arxiv: https://arxiv.org/list/cs.GR/recent
+
+Wiki CFP: http://www.wikicfp.com/cfp/call?conference=computer%20graphics
 
 Self Shadow, SIGGRAPH: https://blog.selfshadow.com/
 
