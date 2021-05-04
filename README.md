@@ -27,6 +27,8 @@ KAIST: http://vclab.kaist.ac.kr/researchareas.html
 
 Dartmouth: http://vcl.cs.dartmouth.edu/publications
 
+Utah uni: https://graphics.cs.utah.edu/links/
+
 TU Wien: https://www.cg.tuwien.ac.at/courses/Rendering/VU.SS2019.html
 
 Valve: https://www.valvesoftware.com/en/publications
