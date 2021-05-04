@@ -19,7 +19,13 @@ VIEW: https://www.viewconference.it/
 
 Yale: https://graphics.cs.yale.edu/publications
 
-Stanford: http://graphics.stanford.edu/courses/cs348b/, https://graphics.stanford.edu/courses/cs348b-competition/
+Stanford: http://graphics.stanford.edu/courses/cs348b/, https://graphics.stanford.edu/courses/cs348b-competition/, https://graphics.stanford.edu/papers/title.html
+
+EPFL: http://rgl.epfl.ch/publications
+
+KAIST: http://vclab.kaist.ac.kr/researchareas.html
+
+Dartmouth: http://vcl.cs.dartmouth.edu/publications
 
 TU Wien: https://www.cg.tuwien.ac.at/courses/Rendering/VU.SS2019.html
 
