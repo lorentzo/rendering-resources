@@ -39,6 +39,10 @@ Unity: https://unity.com/labs/publications
 
 Wenzel Jakob: http://rgl.epfl.ch/people/wjakob/
 
+Jeppe Revall Frisvald: https://people.compute.dtu.dk/jerf/
+
+Ke-Sen Huang: http://kesen.realtimerendering.com/
+
 ## Offline rendering (Global illumination; ray tracing, photon mapping, etc.)
 
 ### Blogs
