@@ -110,6 +110,8 @@ CGAL: https://www.cgal.org/
 
 Meshlab: https://www.meshlab.net/
 
+Autodesk: https://autodesk.github.io/standard-surface/
+
 ## Real-time rendering (Rasterization)
 
 ### Blogs
@@ -173,6 +175,10 @@ Book of shaders: https://thebookofshaders.com/
 The Khronos Group: https://www.khronos.org/
 
 Godot: https://github.com/godotengine/godot
+
+Filament: https://google.github.io/filament/Filament.md.html#about
+
+Unreal: https://docs.unrealengine.com/en-US/RenderingAndGraphics/Materials/PhysicallyBased/index.html
 
 ## Optics
 
